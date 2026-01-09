@@ -1,0 +1,98 @@
+﻿Name,Describe,Rebalancing_type
+MKT,Excess market return,0
+SMB,Small minus big ,1
+HML,High minus low ,1
+RMW,Robust minus weak ,1
+CMA,Conservative minus aggressive,1
+UMD,Momentum on prior (2-12),3
+HMLM,HML Devil,3
+QMJ,Quality minus junk ,3
+BAB,Betting against beta ,3
+LIQ,Liquidity,1
+STR,Short-term reversal on prior (1-1),3
+LTR,Long-term reversal on prior (13-60),3
+REG,Expected growth,3
+VOL,Return volatility,3
+SUE, Standard unexpected earnings,3
+IA,Investment factor,1
+ROE,Equity factor returns,3
+IMD,Intermediary,3
+NI,Net share issues,1
+BETA,Market beta,1
+PEAD,Post-earnings announcement drift,3
+FIN,Financing factor,1
+PLS,Aligned investor sentiment index,3
+ABR,CAR around earnings announcement,3
+ACI,Abnormal corporate investment,1
+ATO,Assets turnover,1
+CEI,Composite equity issuance,1
+CIM,Customer industries momentum,3
+CLA,Cash-based operating profits-to-lagged assets,1
+COP,Operating cash flow-to-assets,1
+CP,Cash flow-to-price,1
+CTO,Capital turnover,1
+DAC,Discretionary accruals,1
+dBE,Changes in book equity,1
+dCOA,Changes in current operating assets,1
+dFIN,Changes in net financial assets,1
+dFNL,Changes in financial liabilities,1
+dII,Percent changes in investment relative to industry,1
+dLNO,Changes in long-term net operating assets,1
+dNCA,Changes in non-current operating assets,1
+dNCO,Changes in net non-current operating assets,1
+dNOA,Changes in net operating assets,1
+DP,Dividend yield,1
+dPIA,Changes in PPE and inventory scaled by lagged assets,1
+dROA, 4-quarter changes in return on assets,3
+dROE, 4-quarter changes in return on equity,3
+DUR, Equity duration,1
+dWC, Changes in net non-cash working capital,1
+EBP,Enterprise book-to-price,1
+EM,Enterprise multiple,1
+EP,Earnings-to-price,1
+EPRD,Earnings predictability,1
+ETL,Earnings timeliness,1
+ETR, Effective tax rate,1
+GPA, Gross profits-to-assets,1
+HS, Industry concentration in sales,1
+IG, Investment growth,1
+ILE, Industry lead-lag effect in earnings surprises,3
+ILR, Industry lead-lag effect in prior returns,3
+IM, Industry momentum,3
+IOCA, Industry-adjusted organizational capital-to-assets,1
+IR, Intangible return,1
+ISFF, Idiosyncratic skewness based on FF3 factor model,3
+ISQ, Idiosyncratic skewness based on Q-factor model,3
+IVC, Inventory changes,1
+IVFF, Idiosyncratic volatility based on FF3 factor model,3
+IVG, Inventory growth,1
+IVQ,Idiosyncratic volatility based on Q-factor model,3
+NDF,Net debt financing,1
+NEI,\# quarters with consecutive earnings increase,3
+NOA,Net operating assets,1
+NOP,Net payout yield,1
+OA,Operating accruals,1
+OCA,Organizational capital-to-assets,1
+OCP,Operating cash flow-to-price,1
+OL,Operating leverage,1
+OLE,Quarterly operating profits-to-lagged book equity,3
+OP,Payout yield,1
+OPA,Operating profits-to-assets,1
+OPE,Operating profits-to-book equity,1
+52W, 52-week high,3
+PDA,Percent discretionary accruals,1
+POA,Percent operating accruals,1
+PTA,Percent total accruals,1
+R1A,"Seasonality, return in month t-12",3
+R5A,"Seasonality, years 2-5 lagged returns",3
+RER,Industry-adjusted real estate ratio,1
+Resid,11-month residual momentum,3
+ROA,Return on assets,3
+RS,Revenue surprises,3
+SG,Quarterly sales growth,3
+SIM,Supplier industries momentum,3
+SP,Sales-to-price,1
+TA,Total accruals,1
+TBI,Quarterly tax income-to-book income,3
+TV,Total volatility,3
+VHP, Roe-based intrinsic value-to-market,1
