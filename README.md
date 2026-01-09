@@ -90,7 +90,7 @@ Applying our proposed stepwise evaluation approach, we select **eight factors**,
   note    = {Forthcoming},
   year    = {2026}
 }
-
+```
 
 ## Contact
 
