@@ -1,7 +1,7 @@
 
 # FactorSE
 
-This repository contains the replication code for Feng, Lan, Wang, and Zhang (*Management Science*, forthcoming),  
+This repository contains the replication code for Feng, Lan, Wang, and Zhang (Management Science, Forthcoming),  
 **Selecting and Testing Asset Pricing Models: A Stepwise Approach**.
 
 ---
@@ -86,8 +86,7 @@ Applying our proposed stepwise evaluation approach, we select **eight factors**,
 @article{feng2026selecting,
   title   = {Selecting and Testing Asset Pricing Models: A Stepwise Approach},
   author  = {Feng, Guanhao and Lan, Wei and Wang, Hansheng and Zhang, Jun},
-  journal = {Management Science},
-  note    = {Forthcoming},
+  journal = {Management Science, Forthcoming},
   year    = {2026}
 }
 ```
