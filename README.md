@@ -70,7 +70,7 @@ Applying our proposed stepwise evaluation approach, we select **eight factors**,
 - **ILR**: 1-way sorts:  Ilr1 ("ilr_1"), industry lead-lag effect in prior returns, 1-month holding period
 - **EPRD**: 1-way sorts: Eprd ("eprd"), earnings predictability
 
-**Calculation Method:**  
+- **Calculation Method:**  
 1-way sorts, take max quantile minus min quantile. If the calculated factor return is negative, we need to adjust the sign (multiply by -1) to make it a positive-return factor.
 
 ---
