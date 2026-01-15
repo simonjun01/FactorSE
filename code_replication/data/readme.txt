@@ -1,1 +1,0 @@
-The data in Fama285.csv has already subtracted the risk-free rate.

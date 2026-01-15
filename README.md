@@ -9,22 +9,15 @@ This repository contains the replication code for Feng, Lan, Wang, and Zhang (Ma
 ## How to Replicate the Results
 
 ### 1. For Linux Users
-- In the command line, navigate to the directory: `cd ./code_replication/`.
+- In the command line, navigate to the directory: `cd ./MS_replication/`.
 - Run the script: `sh submit.sh`. 
-- The authors ran the code on an Intel(R) Xeon(R) CPU E5-2650 v4. It takes approximately 3 minutes to complete all results.
+- The authors ran the code on an Intel(R) Xeon(R) CPU E5-2650 v4. It takes approximately **3 minutes** to complete all results.
 
-### 2. For Windows Users
+### 2. For Windows/Mac Users
+- Set the working directory to the  `./MS_replication/code/`.
 - Run the R scripts individually in each folder to obtain the corresponding results.
-- Note: Some results depend on outputs generated in earlier tables, so the scripts should be executed in the appropriate order.
 
 ---
-
-## Description of Programs and Code
-
-- Please first review the file `submit.sh`, which organizes all replication tasks.
-- Each task or experiment is stored in a separate subfolder (e.g., `Section4`).
-- Within each subfolder, the file `run.sh` replicates all results for the corresponding task or experiment.
-- The output `.csv` files are saved in the same subfolder.
 
 
 ## Details of the 8-Factor Model (M8)
@@ -73,6 +66,7 @@ Applying our proposed stepwise evaluation approach, we select **eight factors**,
 - **Calculation Method:**  
 1-way sorts, take max quantile minus min quantile. If the calculated factor return is negative, we need to adjust the sign (multiply by -1) to make it a positive-return factor.
 
+**Note**: To ensure consistency with the published version, the data provided here span the period 1973-2021. Readers may update the sample period in accordance with the guidelines.
 ---
 
 ## Reference
